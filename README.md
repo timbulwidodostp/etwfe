@@ -1,6 +1,8 @@
 # etwfe
 Extended two-way fixed effects Use etwfe With (In) R Software
 
+https://www.youtube.com/watch?v=Ypu6MUy5crI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
